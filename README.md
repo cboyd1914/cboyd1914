@@ -1,44 +1,50 @@
-# 🚨 AI Scholarship Alert for Small Business Professionals 🚨
+# 🚀 I'm Hosting a Live Fable 5 Build Session — And You're Invited
 
-This is a major opportunity for professionals looking to level up their AI skills, certifications, and career growth in AI, workforce development, business, data analytics, prompt engineering, and more.
+If you've been following my work on **AI workforce readiness** and **upskilling for small business professionals**, this is the one you don't want to miss.
 
-The **American Express Foundation** and **Scholarship America** have launched the **Smart Futures for Small Business Scholarship** to help small business employees access AI education and certification programs. Eligible participants may receive **$250–$1,000** toward tuition, books, and educational expenses.
+Fable 5 is the most capable AI model available right now — and the price goes up on **July 7th**. Before it does, I want to put it directly in your hands and show you what it can actually do for *your* business.
 
-## ✅ Who's Eligible?
+The tools I built this weekend at my kitchen table would have taken a full development team months. That's not hype — that's just where the technology is now. And the gap between people who can use it and people who can't is widening every single day.
 
-- U.S. residents age 18+
-- Employees of U.S.-based small businesses (500 employees or less)
-- Planning to enroll in an AI-related certification or educational program by **September 1, 2026**
+So here's what I'm doing.
 
-## 📚 Example Programs
+## 🗓️ The Session
 
-- Generative AI
-- AI for Business
-- Prompt Engineering
-- Data Analytics
-- AI Marketing
-- Digital Customer Success
-- AI Generalist Programs
+**This Sunday at 5:00 PM EST — a 4-hour live Fable 5 build session.**
 
-This is exactly why we continue emphasizing **AI workforce readiness**, **upskilling**, and **positioning yourself NOW** for the future of work.
+We're not going to talk *about* AI. We're going to build with it, live, together. Bring an idea from your own business and leave with something real.
 
-If you've been waiting for a sign to invest in your AI education — this is it.
+## 🛠️ What We'll Build (Real Examples People Are Shipping)
 
-## ⏰ Deadline
+- Content repurposing machines (one video → a week of posts)
+- AI knowledge bases and "second brain" databases
+- Financial and reporting dashboards
+- Employee training and onboarding platforms
+- Lightweight CRMs and client workflow tools
+- Website and landing-page builders
 
-Recommendations and applications are due **June 15, 2026**.
+These aren't demos. They become **your own IP** — assets you can use inside your business, offer to clients, or license to other companies.
 
-## 🔗 Apply Here
+## 🎯 Who This Is For
 
-[Smart Futures for Small Business Scholarship](https://scholarshipamerica.org/scholarship/smart-futures/)
+- Small business owners and employees ready to put AI to work
+- Professionals upskilling in AI, prompt engineering, and automation
+- Anyone who wants to *build*, not just watch from the sidelines
 
----
+## 🔥 Why Now
+
+Two reasons:
+
+1. **The price of Fable 5 goes up July 7th.** Getting in before that matters.
+2. **Momentum compounds.** The people building today will be miles ahead in six months. I'd rather you be one of them.
 
 ## 💬 Drop a Comment If…
 
-- 🔥 You're applying
-- 🔥 You want to pivot into AI
-- 🔥 You're currently learning AI tools
-- 🔥 You want accountability and community support on your AI journey
+- 🔥 You're joining the live build session
+- 🔥 You want to bring a specific idea to build
+- 🔥 You're upskilling in AI right now
+- 🔥 You want accountability and community on your AI journey
 
-**Let's execute. Let's upskill. Let's position ourselves for the future.**
+**Let's build. Let's ship. Let's position ourselves for what's next.**
+
+— Carlos
