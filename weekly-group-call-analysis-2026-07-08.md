@@ -6,6 +6,10 @@
 **Format:** Zoom group coaching call for his agency / AI community (Agency OS users)
 **Source:** Fireflies full transcript (`01KWDFQ59RZTB2AHEWK6P49MKB`)
 
+**Related documents:**
+- [Descript "integration w Claude" Webinar Analysis (July 9)](./descript-claude-webinar-analysis-2026-07-09.md)
+- [Video Editing Approach Comparison](./video-editing-approach-comparison.md)
+
 **Speakers on record:** Muhammad Asmal, Frankie Barwell, Riyaz (Zanor Digital), Suzanne (Ladybug House), Nicole, Eduard Brancoveanu, Michael ("CADDY AI"), Wale A, plus a "Zoom user."
 
 > **Note on Carlos:** Carlos is on the invite list but was **not on this call**. At roughly the 45-minute mark Muhammad says, *"Carlos is not on here today, but he was testing Blotato as well. I wonder how it's working out for him."* This meeting is one Carlos was invited to but missed — there is nothing he personally said to analyze.
